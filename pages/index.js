@@ -33,11 +33,11 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="/maps"
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Google Maps</p>
           </a>
 
           <a
